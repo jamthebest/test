@@ -42,6 +42,8 @@ body {
 .acerca, .contacto, .gustar, .contador{
 	padding-left: 25px;
 	padding-right: 25px;
+	display: inline-block;
+	margin-top: 30px;
 }
 
 .comeface{
